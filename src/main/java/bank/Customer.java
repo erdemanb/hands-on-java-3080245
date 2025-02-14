@@ -9,10 +9,10 @@ public class Customer {
 
   public Customer(int id, String name, String username, String password, int AccountId)
   {
-    setId(id),
-    setName(name),
-    setUsername(username),
-    setPassword(password),
+    setId(id);
+    setName(name);
+    setUsername(username);
+    setPassword(password);
     setAccountId(AccountId);
   }
 
